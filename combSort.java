@@ -1,5 +1,5 @@
 
-public class test {
+public class combSort {
 
 	public static void main(String args[]) {
 		
